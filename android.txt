@@ -1,0 +1,3 @@
+title= Python Accelerometer
+author= Aaron Hunt
+orientation= portrait
